@@ -1,0 +1,345 @@
+[
+  {
+    "id": "isro-001",
+    "question": "What is ISRO?",
+    "answer": "The Indian Space Research Organisation (ISRO) is the national space agency of India, headquartered in Bengaluru. It operates under the Department of Space (DOS) and is responsible for space exploration, satellite launching, and space-based technologies.",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-002",
+    "question": "When was ISRO established?",
+    "answer": "ISRO was established on August 15, 1969, replacing the Indian National Committee for Space Research (INCOSPAR). It was founded by Dr. Vikram Sarabhai to harness space technology for national development.",
+    "category": "History",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-003",
+    "question": "Who is the father of the Indian space programme?",
+    "answer": "Dr. Vikram Sarabhai is universally recognized as the Father of the Indian Space Programme. He was a visionary physicist who initiated space research in India and established several key institutions, including ISRO and the Physical Research Laboratory (PRL).",
+    "category": "People",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-004",
+    "question": "Who is the current Chairman of ISRO?",
+    "answer": "Dr. V. Narayanan is the current Chairman of the Indian Space Research Organisation (ISRO), Secretary of the Department of Space (DOS), and Chairman of the Space Commission. He assumed charge on January 13, 2025, succeeding S. Somanath. Prior to this, he served as the Director of the Liquid Propulsion Systems Centre (LPSC).",
+    "category": "People",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-005",
+    "question": "Where is ISRO headquartered?",
+    "answer": "ISRO is headquartered at the Antariksh Bhavan in Bengaluru, Karnataka, India. The secretariat of the Department of Space (DOS) also operates from this location.",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-006",
+    "question": "What is the primary launch center of ISRO?",
+    "answer": "The primary launching center of ISRO is the Satish Dhawan Space Centre (SDSC SHAR) located in Sriharikota, Andhra Pradesh. It has two active launch pads from which PSLV, GSLV, and LVM3 rockets are launched.",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-007",
+    "question": "What was India's first satellite?",
+    "answer": "India's first satellite was named 'Aryabhata', built indigenously by ISRO and launched on April 19, 1975, using a Soviet Kosmos-3M launch vehicle from Kapustin Yar.",
+    "category": "History",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-008",
+    "question": "What was India's first indigenous launch vehicle?",
+    "answer": "India's first indigenous launch vehicle was the Satellite Launch Vehicle-3 (SLV-3). Led by Project Director Dr. APJ Abdul Kalam, it successfully launched the Rohini satellite (RS-1) into orbit on July 18, 1980, making India the eighth spacefaring nation.",
+    "category": "Launchers",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-009",
+    "question": "What is the Polar Satellite Launch Vehicle (PSLV)?",
+    "answer": "The Polar Satellite Launch Vehicle (PSLV) is ISRO's third-generation launch vehicle, often called the 'Workhorse of ISRO'. It is a highly reliable rocket featuring four stages (alternating solid and liquid fuel) and launched historic missions like Chandrayaan-1 and the Mars Orbiter Mission.",
+    "category": "Launchers",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-010",
+    "question": "What is the heaviest active launch vehicle of ISRO?",
+    "answer": "The heaviest active launch vehicle is the LVM3 (Launch Vehicle Mark 3), previously known as GSLV Mk III. It is a three-stage heavy-lift rocket with two solid rocket boosters, a liquid core stage, and a cryogenic upper stage. It successfully launched Chandrayaan-3 and is rated for the Gaganyaan human spaceflight mission.",
+    "category": "Launchers",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-011",
+    "question": "What is the Geosynchronous Satellite Launch Vehicle (GSLV)?",
+    "answer": "The Geosynchronous Satellite Launch Vehicle (GSLV) is a three-stage launch vehicle designed to place communication satellites into Geostationary Transfer Orbit (GTO). It utilizes solid, liquid, and cryogenic propulsion stages, incorporating an indigenous cryogenic upper stage (CUS).",
+    "category": "Launchers",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-012",
+    "question": "What is the Small Satellite Launch Vehicle (SSLV)?",
+    "answer": "The Small Satellite Launch Vehicle (SSLV) is a three-stage solid launch vehicle developed by ISRO to launch small satellites weighing up to 500 kg into Low Earth Orbit (LEO) on demand. It is designed for low cost, quick assembly, and minimal launch infrastructure.",
+    "category": "Launchers",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-013",
+    "question": "What is Chandrayaan-3?",
+    "answer": "Chandrayaan-3 was India's third lunar exploration mission, launched on July 14, 2023. On August 23, 2023, the Vikram lander and Pragyan rover successfully soft-landed near the lunar South Pole region, making India the first country to land in the lunar south pole and the fourth country to soft-land on the Moon.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-014",
+    "question": "What is Aditya-L1?",
+    "answer": "Aditya-L1 is India's first space-based solar observatory mission. Launched on September 2, 2023, it is placed in a halo orbit around the Lagrangian point 1 (L1) of the Sun-Earth system (about 1.5 million km from Earth) to continuously study the solar atmosphere, corona, and solar wind.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-015",
+    "question": "What is the Gaganyaan mission?",
+    "answer": "Gaganyaan is ISRO's human spaceflight programme. Its objective is to demonstrate human spaceflight capability by launching a crew of three members to a 400 km orbit for a 3-day mission and returning them safely to Earth with a splashdown in Indian sea waters.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-016",
+    "question": "What is Vyommitra?",
+    "answer": "Vyommitra (meaning 'space friend') is a female-looking humanoid space robot developed by ISRO. She is designed to fly on uncrewed Gaganyaan test missions to simulate human activities, operate control panels, monitor crew module parameters, and test life support systems.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-017",
+    "question": "What was the Mars Orbiter Mission or Mangalyaan?",
+    "answer": "The Mars Orbiter Mission (MOM), also called Mangalyaan, was India's first interplanetary mission, launched on November 5, 2013. It successfully entered Martian orbit on September 24, 2014, making ISRO the fourth space agency in the world to reach Mars, and the first to succeed on its first attempt.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-018",
+    "question": "What is NISAR?",
+    "answer": "NISAR (NASA-ISRO Synthetic Aperture Radar) is a joint Earth-observing satellite mission between NASA and ISRO. It carries dual-frequency synthetic aperture radars (L-band and S-band) to map the entire globe every 12 days, monitoring changes in Earth's ecosystems, ice mass, and natural hazards.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-019",
+    "question": "What was Chandrayaan-1?",
+    "answer": "Chandrayaan-1 was India's first lunar probe, launched in October 2008. It operated as an orbiter and carried the Moon Impact Probe (MIP) which crashed near Shackleton crater. The mission is credited with discovery of water molecules (hydroxyl and water ice) on the lunar surface.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-020",
+    "question": "What was Chandrayaan-2?",
+    "answer": "Chandrayaan-2 was India's second lunar mission, launched in July 2019. It comprised an orbiter, the Vikram lander, and the Pragyan rover. While the lander crash-landed due to a software glitch, the orbiter remains successfully active in lunar orbit collecting high-resolution scientific data.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-021",
+    "question": "What is AstroSat?",
+    "answer": "AstroSat is India's first dedicated multi-wavelength space observatory, launched in September 2015. It carries five payloads studying cosmic sources simultaneously in X-ray, ultraviolet, and optical spectral bands.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-022",
+    "question": "What is the Reusable Launch Vehicle (RLV-TD)?",
+    "answer": "The Reusable Launch Vehicle-Technology Demonstrator (RLV-TD) is a series of technological flights developed by ISRO. It evaluates technologies for a fully reusable space plane, successfully conducting autonomous landing tests (LEX) and atmospheric re-entry experiments.",
+    "category": "Launchers",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-023",
+    "question": "Who was Dr. APJ Abdul Kalam?",
+    "answer": "Dr. APJ Abdul Kalam was an eminent aerospace scientist who spent two decades at ISRO, serving as the Project Director of India's first launch vehicle, the SLV-3. Known as the 'Missile Man of India', he later served as the 11th President of India.",
+    "category": "People",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-024",
+    "question": "Who was Satish Dhawan?",
+    "answer": "Prof. Satish Dhawan was a legendary aerospace engineer who succeeded Vikram Sarabhai as Chairman of ISRO, leading it from 1972 to 1984. He was instrumental in establishing launching facilities at Sriharikota (later renamed SDSC in his honor) and initiating the PSLV program.",
+    "category": "People",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "isro-025",
+    "question": "What is cryogenic propulsion?",
+    "answer": "Cryogenic propulsion involves the use of supercooled liquefied gases as fuels. ISRO's cryogenic engines use Liquid Oxygen (LOX) at -183°C and Liquid Hydrogen (LH2) at -253°C. Cryogenic upper stages provide high efficiency and are essential for heavy payload launch vehicles like GSLV and LVM3.",
+    "category": "Launchers",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-001",
+    "question": "Provide an overview of ISRO and its key facts.",
+    "answer": "The Indian Space Research Organisation (ISRO) is India's national space agency, headquartered at Antariksh Bhavan, Bengaluru, Karnataka. It serves as the primary research and development arm of the Department of Space (DoS). The Chairman of ISRO simultaneously holds the posts of Secretary, Department of Space, and Chairman of the Space Commission. Regarded as one of the six largest space agencies globally, ISRO is famous for extreme cost efficiency. It has launched over 130 spacecraft missions, 100+ launch missions, and 430+ foreign satellites. Its motto is 'Space technology in the service of humankind'.",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-002",
+    "question": "What is the history and origins of ISRO?",
+    "answer": "ISRO's timeline dates back to 1962 when the Indian National Committee for Space Research (INCOSPAR) was established under the Department of Atomic Energy (DAE) by Prime Minister Jawaharlal Nehru, envisioned by physicist Dr. Vikram Sarabhai. In 1963, India launched its first sounding rocket (Nike-Apache) from Thumba. On August 15, 1969, INCOSPAR was dissolved and reconstituted as ISRO under PM Indira Gandhi. In 1972, the DOS and Space Commission were formally established. In 1975, India's first satellite Aryabhata was launched on a Soviet rocket. In 1980, the Rohini satellite was placed in orbit by India's first indigenous launcher, the SLV-3.",
+    "category": "History",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-003",
+    "question": "Describe the organisational structure of ISRO and its major centres.",
+    "answer": "ISRO executes its space programmes through a dedicated network of centres. Key facilities include: Vikram Sarabhai Space Centre (VSSC) in Thiruvananthapuram (launch vehicles design); U R Rao Satellite Centre (URSC) in Bengaluru (satellite design and integration); Satish Dhawan Space Centre (SDSC SHAR) in Sriharikota (launch site/spaceport); Liquid Propulsion Systems Centre (LPSC) in Valiamala & Bengaluru (liquid, cryogenic, and semi-cryogenic propulsion systems); Space Applications Centre (SAC) in Ahmedabad (sensor and payloads); National Remote Sensing Centre (NRSC) in Hyderabad (data processing); and Human Space Flight Centre (HSFC) in Bengaluru (Gaganyaan). Commercial activities are handled by NewSpace India Limited (NSIL).",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-004",
+    "question": "Explain the leadership of ISRO and details about the current Chairman.",
+    "answer": "The Chairman of ISRO is appointed by the Government of India and serves as the DoS Secretary and Space Commission Chairman. Notable former Chairmen include Dr. Vikram Sarabhai (founder), Prof. Satish Dhawan (longest serving), Prof. U. R. Rao, Dr. K. Kasturirangan, Dr. K. Radhakrishnan, Dr. K. Sivan, and S. Somanath. The current Chairman is Dr. V. Narayanan, who assumed charge on 13 January 2025. Dr. Narayanan is an expert in rocket and spacecraft propulsion. He previously served as Director of LPSC and played a central role in developing India's indigenous cryogenic engine CE-7.5 and CE-20 for LVM3.",
+    "category": "Leadership",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-005",
+    "question": "What launch vehicles does ISRO operate or have in development?",
+    "answer": "ISRO's launcher fleet includes: 1. Polar Satellite Launch Vehicle (PSLV): Alternating 4-stage solid/liquid rocket, the 'workhorse' of ISRO. 2. Geosynchronous Satellite Launch Vehicle (GSLV Mk II): 3-stage vehicle with indigenous CE-7.5 cryogenic upper stage. 3. Launch Vehicle Mark-3 (LVM3): Heavy-lift launcher, powered by two S200 solid boosters, L110 liquid core, and C25 cryogenic stage (CE-20). Human-rated as HLVM3 for Gaganyaan. 4. Small Satellite Launch Vehicle (SSLV): 3-stage solid launcher for rapid, low-cost launch on demand. Technology transferred to HAL in 2025. In development: Next Generation Launch Vehicle (NGLV) - partially reusable heavy launcher, and Reusable Launch Vehicle (RLV) spaceplane.",
+    "category": "Launchers",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-006",
+    "question": "What satellite programmes does ISRO run, including INSAT and NavIC?",
+    "answer": "ISRO operates three major satellite families: 1. INSAT/GSAT Series: Multipurpose geostationary satellites for telecommunication, DTH television, meteorology, and disaster warning. 2. IRS/EOS Series: Earth observation satellites monitoring agriculture, oceans, resources, and radar imaging (RISAT). Unified under the 'EOS' naming convention since 2020. 3. Navigation: NavIC (Navigation with Indian Constellation / IRNSS) provides independent regional positioning services over India and 1,500 km beyond its borders. GAGAN (GPS Aided Geo Augmented Navigation) improves GPS accuracy for Indian civil aviation.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-007",
+    "question": "Describe ISRO's lunar exploration programme (Chandrayaan missions).",
+    "answer": "ISRO's lunar exploration (Chandrayaan) program consists of: 1. Chandrayaan-1 (2008): PSLV-launched orbiter. Its Moon Impact Probe discovered water molecules on the Moon. 2. Chandrayaan-2 (2019): Orbiter remains active, but Vikram lander crash-landed during descent. 3. Chandrayaan-3 (2023): Successful soft landing of Vikram lander and Pragyan rover near the lunar South Pole on August 23, 2023. India became the first country to land near the South Pole and fourth country to soft-land on the Moon. This date is now celebrated as National Space Day. 4. Chandrayaan-4: Proposed multi-module lunar sample-return mission. 5. Chandrayaan-5 / LUPEX: Planned joint polar ice exploration with JAXA (Japan).",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-008",
+    "question": "What is the Mars Orbiter Mission (Mangalyaan) and its future plans?",
+    "answer": "ISRO's Mars Orbiter Mission (MOM), also called Mangalyaan, was India's first interplanetary mission, launched via PSLV in November 2013. It entered Martian orbit on September 24, 2014, making India the first nation to reach Mars orbit on its maiden attempt and first Asian country to reach Mars. It studied the Martian atmosphere until 2022. Mangalyaan-2 (Mars Orbiter Mission-2) is in development with a targeted launch around 2030, carrying instruments like Mars Orbit Dust Experiment (MODEX), langmuir probes, and spectrometers. A future Mars Lander/Rover mission is also under conceptual study.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-009",
+    "question": "Describe ISRO's solar, space science, and docking missions (Aditya-L1, SpaDeX).",
+    "answer": "Key science missions: 1. Aditya-L1 (2023): India's first solar observatory. Placed in a halo orbit at the Lagrange Point L1 (1.5 million km from Earth) in January 2024 to study coronal mass ejections, solar wind, and space weather. 2. AstroSat (2015): Multi-wavelength space observatory. 3. XPoSat (2024): Space observatory studying cosmic X-ray polarization (black holes, neutron stars). 4. SpaDeX (Space Docking Experiment): Successful demonstration of autonomous space docking on January 16, 2025, using SDX-01 and SDX-02 satellites. India became the fourth country to master docking technology, paving the way for the Bharatiya Antariksh Station.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-010",
+    "question": "Explain the Gaganyaan human spaceflight programme and astronaut missions.",
+    "answer": "Gaganyaan is India's human spaceflight programme to launch a crew of up to three astronauts (vyomanauts) to a 400 km Low Earth Orbit for 3 days and return them via sea splashdown. It utilizes human-rated HLVM3 rockets and has uncrewed flights (Gaganyaan-1, -2, -3) preceding crewed flights. Astronauts trained at Star City (Russia) and ATF Bengaluru. In June 2025, IAF pilot Shubhanshu Shukla became the first Indian astronaut to visit the International Space Station (ISS) via the Axiom-4 (Ax-4) mission. Following Gaganyaan, India plans to build the Bharatiya Antariksh Station (BAS) and achieve a crewed lunar landing by 2040.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-011",
+    "question": "Describe the commercial space ecosystem, NSIL, and IN-SPACe.",
+    "answer": "To expand its space footprint, India restructured its commercial sector: 1. NewSpace India Limited (NSIL): Headquartered in Bengaluru (office in GIFT City), it acts as ISRO's commercial arm, leasing satellite transponders, acquiring PSLV/SSLV rockets from industry consortia, and providing commercial launch services. 2. IN-SPACe (Indian National Space Promotion and Authorization Centre): An autonomous single-window regulator that authorizes and facilitates private space company launches and satellite operations. The Indian space economy is projected to grow to USD 44 billion by 2033 through expanding private participation.",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-012",
+    "question": "Detail the joint NASA-ISRO Synthetic Aperture Radar (NISAR) mission.",
+    "answer": "NISAR (NASA-ISRO Synthetic Aperture Radar) is a joint Earth-observation mission launched on July 30, 2025. It is the world's first satellite to utilize dual-frequency (L-band from NASA, S-band from ISRO) synthetic aperture radar imaging. NISAR maps the entire globe every 12 days to observe earthquakes, landslides, glaciers, forest biomass, agricultural health, and sea-level rise with high precision, representing a landmark in international space collaboration.",
+    "category": "Missions",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-013",
+    "question": "What are some notable failures and setbacks in ISRO's history?",
+    "answer": "ISRO uses setbacks for iterative engineering. Notable setbacks include: 1. SLV-3 first flight (1979) and early ASLV booster failures. 2. GSLV Mk-I early failures due to cryogenic anomalies. 3. Chandrayaan-2 Vikram lander crash (2019) due to a software glitch during descent, which led to redesigned legs, sensors, and fuel lines in Chandrayaan-3. 4. GSLV-F10 (2021) loss of EOS-03. 5. Consecutive PSLV failures: PSLV-C61 (May 2025) lost EOS-09 due to a third-stage combustion chamber drop in pressure; and PSLV-C62 (January 2026) lost EOS-N1 due to a third-stage roll-rate anomaly, leading to a major quality-assurance process review.",
+    "category": "History",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-014",
+    "question": "What was Mission Shakti (ASAT Test)?",
+    "answer": "Mission Shakti was India's first Anti-Satellite (ASAT) missile test, conducted on March 27, 2019. It was executed by DRDO (Defence Research and Development Organisation) rather than ISRO, using a modified Prithvi ballistic missile interceptor (PDV Mk-II) to destroy Microsat-R (an imaging satellite launched by ISRO) in low Earth orbit (~280 km). The low intercept altitude was selected to ensure debris decayed and burned in the atmosphere within weeks/months. The test made India the fourth nation with ASAT capability.",
+    "category": "History",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-015",
+    "question": "Explain Vyommitra and NETRA systems.",
+    "answer": "1. Vyommitra is a bilingual (Hindi and English) half-humanoid space robot developed by VSSC. She monitors cabin parameters, operates control panels, and detects physiological factors on uncrewed Gaganyaan flights to ensure human safety. 2. NETRA (Network for Space Object Tracking and Analysis) is ISRO's space situational awareness project. Run from the ISTRAC campus in Bengaluru, it merges radar feeds, telescopes, and analytical models to track orbital space debris, predict collision vectors, and protect active Indian satellites.",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-016",
+    "question": "What is the budget and funding history of ISRO and DoS?",
+    "answer": "ISRO and the Department of Space (DoS) are funded through annual parliamentary grants. The DoS total budget was ₹11,725.75 crore in FY2024-25. For FY2025-26, the budget was ₹13,416.20 crore (with ₹12,515 crore specific allocation to ISRO, showing a 15% program increase). For FY2026-27, the budget was further increased to ₹13,705.63 crore, with capital expenditure on launchers and space infrastructure climbing to ₹5,489.75 crore. The increases followed cabinet approvals for Chandrayaan-4, Venus Orbiter, NGLV development, and Sriharikota's Third Launch Pad.",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "ref-017",
+    "question": "Provide a glossary of key ISRO abbreviations and acronyms.",
+    "answer": "Key acronyms: DoS - Department of Space; PSLV - Polar Satellite Launch Vehicle; GSLV - Geosynchronous Satellite Launch Vehicle; LVM3 - Launch Vehicle Mark-3; SSLV - Small Satellite Launch Vehicle; NGLV - Next Generation Launch Vehicle; NavIC - Navigation with Indian Constellation; VSSC - Vikram Sarabhai Space Centre; URSC - U R Rao Satellite Centre; SDSC - Satish Dhawan Space Centre (Sriharikota); LPSC - Liquid Propulsion Systems Centre; SAC - Space Applications Centre; NRSC - National Remote Sensing Centre; HSFC - Human Space Flight Centre; NSIL - NewSpace India Limited; IN-SPACe - Indian National Space Promotion and Authorization Centre; BAS - Bharatiya Antariksh Station (Indian Space Station); SpaDeX - Space Docking Experiment.",
+    "category": "General",
+    "updated_at": "2026-07-04T00:00:00"
+  },
+  {
+    "id": "39fd4c81",
+    "question": "how to join isro?",
+    "answer": "To join the Indian Space Research Organisation (ISRO), the most common pathways are clearing the ICRB written exam after completing a B.E./B.Tech, qualifying for a direct interview through your GATE score, or securing direct campus placement by studying at the Indian Institute of Space Science and Technology (IIST).",
+    "category": "General",
+    "updated_at": "2026-07-04T08:42:07"
+  },
+  {
+    "id": "9d80607d",
+    "question": "how many satellites has isro launched till date?",
+    "answer": "The Indian Space Research Organisation (ISRO) has launched a total of 587 satellites since 1975. This includes 153 satellites of Indian origin (built by ISRO, private players, or students) and 434 foreign satellites launched on commercial missions.",
+    "category": "History",
+    "updated_at": "2026-07-04T08:47:46"
+  },
+  {
+    "id": "52b97ff8",
+    "question": "telemetry",
+    "answer": "An expendable dropsonde used to capture weather data. The telemetry consists of sensors for pressure, temperature, and humidity and a wireless transmitter to return the captured data to an aircraft. A saltwater crocodile with a GPS-based satellite transmitter attached to its head for tracking Telemetry is the in situ collection of measurements or other data at remote points and their automatic ...",
+    "category": "Auto-Gathered",
+    "updated_at": "2026-07-10T15:17:10"
+  },
+  {
+    "id": "4bda2066",
+    "question": "who is amitabh bachchan",
+    "answer": "Amitabh Bachchan ... Amitabh Bachchan[a] (né Srivastava; [1] born 11 October 1942) is an Indian actor, playback singer, and producer who primarily works in Hindi cinema. Widely considered one of the greatest, most accomplished and commercially successful actors in the history of Indian cinema, [7] he has starred in over 200 films.",
+    "category": "Auto-Gathered",
+    "updated_at": "2026-07-10T15:18:08"
+  },
+  {
+    "id": "a0db8831",
+    "question": "import dataset named as titanic from seaborn, generate me a code",
+    "answer": "The titanic data can be analyzed using many more graph techniques and also more column correlations, than, as described in this article. Once the EDA is completed, the resultant dataset can be used for predictions.",
+    "category": "Auto-Gathered",
+    "updated_at": "2026-07-10T15:19:17"
+  },
+  {
+    "id": "8d190456",
+    "question": "who is shahrukh khan",
+    "answer": "Shah Rukh Khan[a] (pronounced [ˈʃaːɦɾʊx xäːn] ⓘ; born as Shahrukh Khan on 2 November 1965), popularly known by the initials SRK, is an Indian actor and film producer renowned for his work in Hindi cinema.",
+    "category": "Auto-Gathered",
+    "updated_at": "2026-07-10T15:24:57"
+  },
+  {
+    "id": "82661dca",
+    "question": "review of odyseey movie",
+    "answer": "Discover reviews, ratings, and trailers for The Odyssey (2026) on Rotten Tomatoes. Stay updated with critic and audience scores today!",
+    "category": "Auto-Gathered",
+    "updated_at": "2026-07-30T14:52:17"
+  }
+]
